@@ -1,0 +1,233 @@
+[
+  {
+    "Team": "Calgary Flames",
+    "Year": 1990,
+    "wins": 46,
+    "losses": 26,
+    "ot_losses": 0,
+    "pct_text_success": 0.575,
+    "gf": 344,
+    "ga": 263,
+    "diff": 81
+  },
+  {
+    "Team": "Calgary Flames",
+    "Year": 1991,
+    "wins": 31,
+    "losses": 37,
+    "ot_losses": 0,
+    "pct_text_success": 0.388,
+    "gf": 296,
+    "ga": 305,
+    "diff": -9
+  },
+  {
+    "Team": "Calgary Flames",
+    "Year": 1992,
+    "wins": 43,
+    "losses": 30,
+    "ot_losses": 0,
+    "pct_text_success": 0.512,
+    "gf": 322,
+    "ga": 282,
+    "diff": 40
+  },
+  {
+    "Team": "Calgary Flames",
+    "Year": 1993,
+    "wins": 42,
+    "losses": 29,
+    "ot_losses": 0,
+    "pct_text_success": 0.5,
+    "gf": 302,
+    "ga": 256,
+    "diff": 46
+  },
+  {
+    "Team": "Calgary Flames",
+    "Year": 1994,
+    "wins": 24,
+    "losses": 17,
+    "ot_losses": 0,
+    "pct_text_success": 0.5,
+    "gf": 163,
+    "ga": 135,
+    "diff": 28
+  },
+  {
+    "Team": "Calgary Flames",
+    "Year": 1995,
+    "wins": 34,
+    "losses": 37,
+    "ot_losses": 0,
+    "pct_text_success": 0.415,
+    "gf": 241,
+    "ga": 240,
+    "diff": 1
+  },
+  {
+    "Team": "Calgary Flames",
+    "Year": 1996,
+    "wins": 32,
+    "losses": 41,
+    "ot_losses": 0,
+    "pct_text_success": 0.39,
+    "gf": 214,
+    "ga": 239,
+    "diff": -25
+  },
+  {
+    "Team": "Calgary Flames",
+    "Year": 1997,
+    "wins": 26,
+    "losses": 41,
+    "ot_losses": 0,
+    "pct_text_success": 0.317,
+    "gf": 217,
+    "ga": 252,
+    "diff": -35
+  },
+  {
+    "Team": "Calgary Flames",
+    "Year": 1998,
+    "wins": 30,
+    "losses": 40,
+    "ot_losses": 0,
+    "pct_text_success": 0.366,
+    "gf": 211,
+    "ga": 234,
+    "diff": -23
+  },
+  {
+    "Team": "Calgary Flames",
+    "Year": 1999,
+    "wins": 31,
+    "losses": 36,
+    "ot_losses": 5,
+    "pct_text_success": 0.378,
+    "gf": 211,
+    "ga": 256,
+    "diff": -45
+  },
+  {
+    "Team": "Calgary Flames",
+    "Year": 2000,
+    "wins": 27,
+    "losses": 36,
+    "ot_losses": 4,
+    "pct_text_success": 0.329,
+    "gf": 197,
+    "ga": 236,
+    "diff": -39
+  },
+  {
+    "Team": "Calgary Flames",
+    "Year": 2001,
+    "wins": 32,
+    "losses": 35,
+    "ot_losses": 3,
+    "pct_text_success": 0.39,
+    "gf": 201,
+    "ga": 220,
+    "diff": -19
+  },
+  {
+    "Team": "Calgary Flames",
+    "Year": 2002,
+    "wins": 29,
+    "losses": 36,
+    "ot_losses": 4,
+    "pct_text_success": 0.354,
+    "gf": 186,
+    "ga": 228,
+    "diff": -42
+  },
+  {
+    "Team": "Calgary Flames",
+    "Year": 2003,
+    "wins": 42,
+    "losses": 30,
+    "ot_losses": 3,
+    "pct_text_success": 0.512,
+    "gf": 200,
+    "ga": 176,
+    "diff": 24
+  },
+  {
+    "Team": "Calgary Flames",
+    "Year": 2005,
+    "wins": 46,
+    "losses": 25,
+    "ot_losses": 11,
+    "pct_text_success": 0.561,
+    "gf": 218,
+    "ga": 200,
+    "diff": 18
+  },
+  {
+    "Team": "Calgary Flames",
+    "Year": 2006,
+    "wins": 43,
+    "losses": 29,
+    "ot_losses": 10,
+    "pct_text_success": 0.524,
+    "gf": 258,
+    "ga": 226,
+    "diff": 32
+  },
+  {
+    "Team": "Calgary Flames",
+    "Year": 2007,
+    "wins": 42,
+    "losses": 30,
+    "ot_losses": 10,
+    "pct_text_success": 0.512,
+    "gf": 229,
+    "ga": 227,
+    "diff": 2
+  },
+  {
+    "Team": "Calgary Flames",
+    "Year": 2008,
+    "wins": 46,
+    "losses": 30,
+    "ot_losses": 6,
+    "pct_text_success": 0.561,
+    "gf": 254,
+    "ga": 248,
+    "diff": 6
+  },
+  {
+    "Team": "Calgary Flames",
+    "Year": 2009,
+    "wins": 40,
+    "losses": 32,
+    "ot_losses": 10,
+    "pct_text_success": 0.488,
+    "gf": 204,
+    "ga": 210,
+    "diff": -6
+  },
+  {
+    "Team": "Calgary Flames",
+    "Year": 2010,
+    "wins": 41,
+    "losses": 29,
+    "ot_losses": 12,
+    "pct_text_success": 0.5,
+    "gf": 250,
+    "ga": 237,
+    "diff": 13
+  },
+  {
+    "Team": "Calgary Flames",
+    "Year": 2011,
+    "wins": 37,
+    "losses": 29,
+    "ot_losses": 16,
+    "pct_text_success": 0.451,
+    "gf": 202,
+    "ga": 226,
+    "diff": -24
+  }
+]
